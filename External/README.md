@@ -1,0 +1,5 @@
+- Name        :  Mannequins Asset Pack
+- Description :  This asset is acquired from Epic Games Fab Asset Manager
+- Access Date :  01-Jan-2024
+- Owner       :  Epic Games
+- Licence     :  Fab End User License Agreement (01 Oct 2024)
